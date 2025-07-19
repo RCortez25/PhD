@@ -10,3 +10,6 @@ PhD/
 ├── papers/                  # PDFs or notes about relevant papers
 ├── logs/                    # Training logs, metrics, etc.
 └── presentations/           # Slides or visuals for talks
+
+
+Hola
