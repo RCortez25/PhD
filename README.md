@@ -1,6 +1,7 @@
 # PhD
 Structure
 
+```Text
 PhD/
 ├── README.md
 ├── LLM/                     # LLMs from scratch
