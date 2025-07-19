@@ -5,6 +5,7 @@ Structure
 PhD/
 ├── LLM/                     # LLMs from scratch
 │   ├── 0. Tokenizer/        # Tokenizer
+│   └── README.md
 ├── data/                    # Links to data sources or instructions (not actual large data!)
 ├── papers/                  # PDFs or notes about relevant papers
 ├── logs/                    # Training logs, metrics, etc.
