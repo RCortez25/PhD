@@ -3,10 +3,11 @@ Structure
 
 ```Text
 PhD/
-├── DeepSeek/                     # DeekSeek from scratch
+├── DeepSeek/                 # DeekSeek from scratch
 ├── LLM/                     # LLMs from scratch
 │   ├── 0. Tokenizer/        # Tokenizer
 │   └── README.md
+├── Reasoning LLM/           # Reasoning LLM from scratch
 ├── Reinforcement learning/
 ├── data/                    # Links to data sources
 ├── papers/                  # PDFs or notes about relevant papers
