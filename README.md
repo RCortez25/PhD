@@ -3,6 +3,7 @@ Structure
 
 ```Text
 PhD/
+├── DeepSeek/                     # DeekSeek from scratch
 ├── LLM/                     # LLMs from scratch
 │   ├── 0. Tokenizer/        # Tokenizer
 │   └── README.md
