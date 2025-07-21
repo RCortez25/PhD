@@ -7,7 +7,7 @@ PhD/
 │   ├── 0. Tokenizer/        # Tokenizer
 │   └── README.md
 ├── Reinforcement learning/
-├── data/                    # Links to data sources or instructions (not actual large data!)
+├── data/                    # Links to data sources
 ├── papers/                  # PDFs or notes about relevant papers
 ├── logs/                    # Training logs, metrics, etc.
 ├── presentations/           # Slides or visuals for talks
