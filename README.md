@@ -5,13 +5,13 @@ Structure
 PhD/
 ├── DeepSeek/                # DeepSeek from scratch
 ├── LLM/                     # LLMs from scratch
-│   ├── 0. Tokenizer/        
+    ├── 0. Tokenizer/        
     ├── 1. Data Loader/
     ├── 2. Token embeddings/
     ├── 3. Positional embeddings/
     ├── 4. Attention mechanism/
     ├── 5. LLM architecture/
-│   └── README.md
+    └── README.md
 ├── Reasoning LLM/           # Reasoning LLM from scratch
 ├── Reinforcement learning/  # Experiments using RL 
 ├── data/                    # Links to data sources
