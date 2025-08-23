@@ -11,6 +11,7 @@ PhD/
     ├── 3. Positional embeddings/
     ├── 4. Attention mechanism/
     ├── 5. LLM architecture/
+    ├── 6. Layer Normalization/
     └── README.md
 ├── Reasoning LLM/           # Reasoning LLM from scratch
 ├── Reinforcement learning/  # Experiments using RL 
